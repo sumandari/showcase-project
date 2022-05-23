@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.main-title {
+  font-size: 250px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.App-footer > img {
+  width: 100px;
+}
